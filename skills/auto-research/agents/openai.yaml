@@ -1,0 +1,6 @@
+interface:
+  display_name: "Auto Research"
+  short_description: "Run constrained long-horizon research loops"
+  default_prompt: "Use $auto-research to structure this long-horizon task as a measurable, iterative research loop."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "自动研究"
+  short_description: "把长周期任务改造成可迭代研究循环"
+  default_prompt: "Use $auto-research-zh to run this task as a constrained, measurable, iterative research loop."
+policy:
+  allow_implicit_invocation: true
