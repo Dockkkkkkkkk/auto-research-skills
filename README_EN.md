@@ -170,7 +170,3 @@ What matters to real teams is usually not whether the agent looks impressive in 
 ### Official Account
 
 ![Official account QR](assets/official-account-qr.png)
-
-## License
-
-MIT.
